@@ -1,0 +1,2 @@
+print("Podaj liczbe")
+int(input())
